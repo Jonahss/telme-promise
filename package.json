@@ -1,8 +1,8 @@
 {
-	"name": "bulk-poster",
+	"name": "telme",
 	"version": "0.1.0",
 	"author": "Jonah Stiennon <jonahss@gmail.com>",
-	"description": "super duper lite cli prompt",
+	"description": "super duper lite cli prompt for node",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
