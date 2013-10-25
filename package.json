@@ -1,0 +1,15 @@
+{
+	"name": "bulk-poster",
+	"version": "0.1.0",
+	"author": "Jonah Stiennon <jonahss@gmail.com>",
+	"description": "super duper lite cli prompt",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Jonahss/telme.git"
+	},
+	"license" : "MIT",
+	"engines" : {
+		"node": ">=0.10.15"
+	}
+}
