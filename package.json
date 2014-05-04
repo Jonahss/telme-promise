@@ -1,9 +1,12 @@
 {
-	"name": "telme",
+	"name": "telme-promise",
 	"version": "0.1.0",
 	"author": "Jonah Stiennon <jonahss@gmail.com>",
-	"description": "super duper lite cli prompt for node",
+	"description": "super duper lite cli prompt for node, with promises",
 	"main": "index.js",
+	"dependencies": {
+		"q": "1.0.1"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Jonahss/telme.git"

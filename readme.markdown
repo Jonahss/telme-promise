@@ -6,7 +6,7 @@ npm install telme
 ```
 var tellme = require('./stdintest.js');
 
-tellme('your name', function(str){
+tellme('your name').then(function(str){
 	console.log(str);
 });
 ```
