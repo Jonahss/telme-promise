@@ -1,6 +1,6 @@
 {
 	"name": "telme-promise",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"author": "Jonah Stiennon <jonahss@gmail.com>",
 	"description": "super duper lite cli prompt for node, with promises",
 	"main": "index.js",
