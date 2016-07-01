@@ -5,7 +5,6 @@
 	"description": "super duper lite cli prompt for node, with promises",
 	"main": "index.js",
 	"dependencies": {
-		"q": "1.0.1"
 	},
 	"repository": {
 		"type": "git",
